@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23510175872",
+    "project_id": "asm-notes",
+    "storage_bucket": "asm-notes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23510175872:android:ff35957aa6db2af82cd665",
+        "android_client_info": {
+          "package_name": "com.example.asm_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkhxmd6LAqCM_Vti4-ii5_rOSNesJtSa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
